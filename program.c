@@ -3,7 +3,7 @@ fff
 
 init main(){
     printf("Hello");
-    printf("Lala");
+    printf("Lala %d\n", x);
 
     return 0;
 
