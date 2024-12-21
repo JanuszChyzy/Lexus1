@@ -8,3 +8,6 @@ Linia czwarta w vsCode
 
 
 22222
+
+
+5 linia dopisana w masterze
