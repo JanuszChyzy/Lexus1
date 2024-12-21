@@ -14,3 +14,5 @@ Linia czwarta w vsCode
 
 
 5 linia dopisana w masterze
+
+6 linia w master
