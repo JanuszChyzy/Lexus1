@@ -20,3 +20,5 @@ Linia czwarta w vsCode
 7 linia 7 w masterze
 
 7 linia w masterze
+
+8 linia w czytance
