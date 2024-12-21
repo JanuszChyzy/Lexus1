@@ -1,0 +1,4 @@
+
+
+$zmienna = "wzat7"
+
