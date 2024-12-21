@@ -3,3 +3,4 @@
 $zmienna = "wzat7"
 Zenenk
 
+do galzei2
